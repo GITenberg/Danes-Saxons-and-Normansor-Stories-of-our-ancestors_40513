@@ -1,0 +1,31 @@
+_repo: Danes-Saxons-and-Normansor-Stories-of-our-ancestors_40513
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40513-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edgar, John G. (John George)
+    aliases:
+    - Edgar, J. G. (John George)
+    - Edgar, J.G.
+    - Edgar, John George
+    birthdate: 1834
+    deathdate: 1864
+    gutenberg_agent_id: '32162'
+    url: http://www.gutenberg.org/2009/agents/32162
+description: ''
+gutenberg_issued: '2012-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154'
+- !lcsh 'Vikings -- Great Britain'
+- !lcc 'DA'
+title: Danes, Saxons and Normans; or, Stories of our ancestors
+url: http://www.gutenberg.org/ebooks/40513
